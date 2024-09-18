@@ -49,8 +49,6 @@ button{
     gap: 10px;
 }
 .scien{
-    width: 100px;
-    height: 100px;
     background-color: hsl(39, 77%, 83%);
     color: black;
     font-weight: bold;
